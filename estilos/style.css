@@ -33,6 +33,16 @@ section#telefone {
     background: url('../imagens/frame-iphone.png') no-repeat;
 }
 
+iframe#tela {
+    position: relative;
+    top: 80px;
+    left: 22px;
+    width: 100px;
+    height: 100px;
+    width: 269px;
+    height: 471px;
+}
+
 /*
     CENTRALIZAR BLOCO
     - Indepentemente do tamanho da tela, o bloco fica centralizado
